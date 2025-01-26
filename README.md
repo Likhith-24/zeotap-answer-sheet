@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpenpath.com%2Fblog%2Fecommerce-kpis-you-need%2F&psig=AOvVaw2uS1MrO6Yh-9OWS1BGiK71&ust=1738000079799000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi64Pz4k4sDFQAAAAAdAAAAABAE" alt="eCommerce Data Analysis" width="800" height="300">
+  <img src="https://penpath.com/wp-content/uploads/2021/01/ecommerce-insight-copy.png" alt="eCommerce Data Analysis" width="800" height="300">
 </p>
 
 <h1 align="center">🛒 eCommerce Transactions Data Science Assignment 📊</h1>
