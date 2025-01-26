@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://penpath.com/wp-content/uploads/2021/01/ecommerce-insight-copy.png" alt="eCommerce Data Analysis" width="800" height="300">
+  <img src="https://penpath.com/wp-content/uploads/2021/01/ecommerce-insight-copy.png" alt="eCommerce Data Analysis" width="800" height="600">
 </p>
 
 <h1 align="center">🛒 eCommerce Transactions Data Science Assignment 📊</h1>
