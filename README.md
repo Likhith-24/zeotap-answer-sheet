@@ -1,6 +1,4 @@
-Here’s the updated README file with added **GIFs** for a more dynamic and engaging look. Each section includes relevant GIFs to guide users visually.
 
-```markdown
 <p align="center">
   <img src="https://penpath.com/wp-content/uploads/2021/01/ecommerce-dashboard-1.jpg" alt="eCommerce Data Analysis" width="800" height="300">
 </p>
