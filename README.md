@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/your-username/eCommerce-Transactions-Assignment/blob/main/assets/ecommerce-banner.png?raw=true" alt="Project Banner" width="800" height="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkwYW50cWt1bmdoZXV4bDBrZjhleDJwbzgzazZ2b3MxdHFkNWl5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QW534qz1UEL6qKfv0r/giphy.gif" alt="Project Banner" width="600" height="300">
 </p>
 
 <h1 align="center">🛒 eCommerce Transactions Data Science Assignment 📊</h1>
@@ -15,21 +16,26 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
 </p>
 
 ---
 
-## 🌟 About
+## 🌟 <span id="about">About</span>
 
 Welcome to the **eCommerce Transactions Data Science Assignment**! This project focuses on analyzing eCommerce transaction data to derive actionable insights, build predictive models, and perform customer segmentation. The goal is to help businesses improve their strategies by understanding customer behavior, identifying trends, and making data-driven decisions.
 
 ---
 
-## 📋 Tasks
+## 📋 <span id="tasks">Tasks</span>
 
 The assignment is divided into three main tasks:
 
 ### **Task 1: Exploratory Data Analysis (EDA) and Business Insights**
+<p align="center">
+  <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" alt="Project Banner" width="600" height="400">
+</p>
+
 - Perform EDA on the provided dataset.
 - Derive at least 5 business insights.
 - Deliverables:
@@ -37,12 +43,19 @@ The assignment is divided into three main tasks:
   - PDF report with business insights (maximum 500 words).
 
 ### **Task 2: Lookalike Model**
+<p align="center">
+  <img src="https://process.filestackapi.com/cache=expiry:max/8OjKACe6TNGMABSL7gIl" alt="Project Banner" width="400" height="500">
+</p>
 - Build a Lookalike Model that recommends 3 similar customers based on their profile and transaction history.
 - Deliverables:
   - `Lookalike.csv` containing top 3 lookalikes with similarity scores for the first 20 customers.
   - Jupyter Notebook explaining the model development.
 
 ### **Task 3: Customer Segmentation**
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5e0cf05266f5174555a56091/1583089177375-AFGOHZACTLKJ8R8YXCHD/CSFG+-+data-analysis+2.gif?format=500w" alt="Project Banner" width="500" height="400">
+</p>
+
 - Perform customer segmentation using clustering techniques.
 - Deliverables:
   - Report on clustering results, including the number of clusters, DB Index value, and other metrics.
@@ -50,7 +63,8 @@ The assignment is divided into three main tasks:
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 <span id="technologies-used">Technologies Used</span>
+
 
 - **Python**: The primary programming language for data analysis and model development.
 - **Pandas**: For data manipulation and analysis.
@@ -61,12 +75,12 @@ The assignment is divided into three main tasks:
 
 ---
 
-## 🛠️ Installation
+## 🛠️ <span id="installation">Installation</span>
 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/eCommerce-Transactions-Assignment.git
+git clone https://github.com/Likhith-24/eCommerce-Transactions-Assignment.git
 ```
 
 2. **Install the required dependencies:**
@@ -79,7 +93,7 @@ pip install -r requirements.txt
 
 ---
 
-## 💻 Usage
+## 💻 <span id="usage">Usage</span>
 
 ### **Task 1: EDA and Business Insights**
 1. Open the Jupyter Notebook `FirstName_LastName_EDA.ipynb`.
@@ -87,7 +101,7 @@ pip install -r requirements.txt
 3. Export the notebook to PDF for the business insights report.
 
 <p align="center">
-  <img src="https://github.com/your-username/eCommerce-Transactions-Assignment/blob/main/assets/eda-gif.gif?raw=true" alt="EDA GIF" width="600" height="300">
+  <img src="https://github.com/Likhith-24/eCommerce-Transactions-Assignment/blob/main/assets/eda-gif.gif?raw=true" alt="EDA GIF" width="600" height="300">
 </p>
 
 ### **Task 2: Lookalike Model**
@@ -96,7 +110,7 @@ pip install -r requirements.txt
 3. The results will be saved in `Lookalike.csv`.
 
 <p align="center">
-  <img src="https://github.com/your-username/eCommerce-Transactions-Assignment/blob/main/assets/lookalike-gif.gif?raw=true" alt="Lookalike Model GIF" width="600" height="300">
+  <img src="https://github.com/Likhith-24/eCommerce-Transactions-Assignment/blob/main/assets/lookalike-gif.gif?raw=true" alt="Lookalike Model GIF" width="600" height="300">
 </p>
 
 ### **Task 3: Customer Segmentation**
@@ -105,12 +119,12 @@ pip install -r requirements.txt
 3. The results will be saved in `Clustering_Results.csv`.
 
 <p align="center">
-  <img src="https://github.com/your-username/eCommerce-Transactions-Assignment/blob/main/assets/clustering-gif.gif?raw=true" alt="Clustering GIF" width="600" height="300">
+  <img src="https://github.com/Likhith-24/eCommerce-Transactions-Assignment/blob/main/assets/clustering-gif.gif?raw=true" alt="Clustering GIF" width="600" height="300">
 </p>
 
 ---
 
-## 🤝 Contributing
+## 🤝 <span id="contributing">Contributing</span>
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
@@ -126,6 +140,7 @@ Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
 ---
 
 
+
 ###
 
 <div align="center">
@@ -137,7 +152,7 @@ Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Likhith-24.your-repo&"  />
 </div>
 
 ###
@@ -150,57 +165,153 @@ Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ###
 
-<p align="left">I'm [Your Name]<br><br>- 🔭 I’m working as a Student<br>- 📚 I'm currently learning Data Science, Machine Learning, AI, and much more!<br>- ⚡ In my free time I read about tech-stuff and self-improve</p>
+<p align="left">I'm Likhith<br><br>- 🔭 I’m seeking to become the top-notch Apple's AI Engineer <br>- 📚 I'm currently learning Data Science, Machine Learning, AI, and much more!<br>- ⚡ In my free time I read about tech-stuff and self-improve</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠️ My Favourite tools
+
+### 👨‍💻 Programming languages
+
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
+
+### 🧰 Frameworks and libraries
+
+<p align="left">
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
+  </a>
+  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Likhith-24/Likhith-24/assets/132389441/e20f22d5-cb8d-41c1-9071-9ba00b27f3de" alt="langchain" width="80" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Likhith-24/Likhith-24/assets/132389441/77c22e78-6c79-467e-a29c-9cb3cebe0d7a" alt="nltk" width="40" height="40"/> 
+  </a>
+  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png?20200904111722" alt="scipy" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> 
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40"/> 
+  </a>  
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Likhith-24/Likhith-24/assets/132389441/57c31ea4-4e72-4910-a191-14cde8c2633e" alt="flask" width="40" height="40" /> 
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
+  </a> 
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> 
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
+  </a>
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p align="left"> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050" alt="aws" width="" height="35"/> 
+  </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/225px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> 
+  </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a>
+</p>
+
+### 🧑‍💻 Data Structures & Algorithms
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
+
+
+
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+## 📊 Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=likhith-24&label=Profile%20views&color=0e75b6&style=flat" alt="likhith-24" /> <b>&nbsp; is the total count! </b>  </p> 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Likhith-24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Likhith-24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2&custom_title=My%20Galactic%20Standard%20Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Likhith-24&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Likhith-24&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhith-24&radius=16&theme=github-dark&area=true&order=5&bg_color=000000&color=00aeff&title_color=00FF41&line=00FF41&point=FFFFFF&area_color=FFFFFF&custom_title=My%20Contribution%20Holocron" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github.com/Likhith-24/Likhith-24/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-```
 
----
-
-### **How to Use**
-1. Replace the following placeholders:
-   - `your-username` with your GitHub username.
-   - `[Your Name]` with your name.
-   - Update the image and GIF links with actual files or URLs. For example:
-     - Replace `https://github.com/your-username/eCommerce-Transactions-Assignment/blob/main/assets/ecommerce-banner.png?raw=true` with the actual link to your banner image.
-     - Replace `https://github.com/your-username/eCommerce-Transactions-Assignment/blob/main/assets/eda-gif.gif?raw=true` with the actual link to your EDA GIF.
-
-2. Save the file as `README.md` in your project repository.
-
-3. Commit and push the file to GitHub.
-
----
+<h4 align="center">⚠ Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
