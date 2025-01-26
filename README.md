@@ -15,7 +15,6 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
 </p>
 
 ---
@@ -126,15 +125,6 @@ Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <img height="150" src="https://github.com/your-username/eCommerce-Transactions-Assignment/blob/main/assets/cyberpunk-city.jpg?raw=true"  />
-</div>
 
 ###
 
