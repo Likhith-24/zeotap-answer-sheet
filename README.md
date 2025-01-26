@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://penpath.com/wp-content/uploads/2021/01/ecommerce-dashboard-1.jpg" alt="eCommerce Data Analysis" width="800" height="300">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpenpath.com%2Fblog%2Fecommerce-kpis-you-need%2F&psig=AOvVaw2uS1MrO6Yh-9OWS1BGiK71&ust=1738000079799000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi64Pz4k4sDFQAAAAAdAAAAABAE" alt="eCommerce Data Analysis" width="800" height="300">
 </p>
 
 <h1 align="center">🛒 eCommerce Transactions Data Science Assignment 📊</h1>
@@ -162,11 +162,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.eCommerce-Transactions-Assignment" alt="visitor badge"/>
 </p>
-```
 
-### **Key Highlights:**
-1. Added **GIFs** in sections like "About," "Tasks," "Technologies Used," "Installation," "Usage," and "Contributing."
-2. Each GIF is visually engaging and relates directly to the section for enhanced user experience.
-3. Makes the README more interactive and visually appealing. 
-
-Let me know if you'd like help customizing this further! 😊
